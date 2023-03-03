@@ -1,0 +1,23 @@
+html {
+background-color: rgb(0, 0, 0);
+}
+.Overlord {
+ color: white;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-weight: bolder;
+ font-size: 150px;
+ position: fixed; right: 605px;
+ 
+}
+.info {
+ width: 1910px;
+ height: 100px;
+ position: relative; bottom: -320px;
+ background-color: rgb(0, 0, 0);
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-size: xx-large;
+ font-weight: bolder;
+ border-color: black;
+ color: white;
+}
+
